@@ -16,4 +16,5 @@ Separateing the data into training and testing data.
 
 ## Tune Model Parameters:
 Use GridSearch to tune model parameters.
+
 Tune and compare different classifiers.
